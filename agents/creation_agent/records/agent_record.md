@@ -2,9 +2,7 @@
 
 
 
-\- Repository / branch / commit: MASY1800-ET-Agent-Lab / main / final commit to be recorded after testing
-
-\- Agent / assignment: Emerging Technology Creation Agent / Assignment 2 — Emerging Technology Creation Agent
+\- Repository / branch / commit: MASY1800-ET-Agent-Lab / main / bd3e898- Agent / assignment: Emerging Technology Creation Agent / Assignment 2 — Emerging Technology Creation Agent
 
 \- General ET finding: LLMs emerged through the recombination and scaling of earlier capabilities including neural language modeling, attention and Transformer architectures, large-scale pretraining, increased computing and data availability, instruction tuning, human-feedback methods, and retrieval-based approaches.
 
