@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Large Language Models (LLMs)",
+  "intended_application": "AI-powered customer service assistant",
+  "organization": "A large multinational retail company",
+  "industry_sector": "Retail and e-commerce",
+  "business_need": "Improve customer service efficiency and consistency across a large volume of customer interactions, markets, and languages.",
+  "users_stakeholders": "Customers, customer service employees, regional support teams, customer service managers, IT teams, and company management.",
+  "adoption_posture": "Evaluating enterprise-scale deployment after initial experimentation.",
+  "capabilities_constraints": "The organization has substantial technical, data, and financial resources and can support complex system integration, but must operate across multiple markets, languages, systems, and customer-service workflows.",
+  "risk_consequence_context": "Incorrect or inconsistent responses could affect large numbers of customers, create reputational problems, and produce inconsistent service across markets. Human escalation and organizational oversight are available.",
+  "management_question": "How does the way LLMs were created and evolved affect their capabilities, dependencies, and limitations for customer service at enterprise scale in this organization?",
+  "time_horizon": "Current capabilities and near-term enterprise implementation considerations.",
+  "additional_context": "The organization is considering integrating an existing commercial LLM with its internal customer-service systems rather than developing a foundation model from scratch."
+}

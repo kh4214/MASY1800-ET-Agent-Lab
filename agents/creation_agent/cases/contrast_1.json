@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Large Language Models (LLMs)",
+  "intended_application": "AI assistant providing clinical information support to healthcare professionals",
+  "organization": "A large U.S. hospital system",
+  "industry_sector": "Healthcare",
+  "business_need": "Help healthcare professionals retrieve and summarize relevant clinical information more efficiently.",
+  "users_stakeholders": "Physicians, nurses, clinical staff, hospital administrators, patients, and IT and compliance teams.",
+  "adoption_posture": "Evaluating a controlled pilot before wider clinical use.",
+  "capabilities_constraints": "The organization has substantial IT resources and technical expertise but must integrate the system with clinical workflows, protect sensitive information, and maintain appropriate human oversight.",
+  "risk_consequence_context": "Incorrect, fabricated, or misleading information could affect clinical decisions and potentially cause patient harm, making reliability and human review especially important.",
+  "management_question": "How does the way LLMs were created and evolved affect their capabilities, dependencies, and limitations for clinical information support in this hospital context?",
+  "time_horizon": "Current capabilities and near-term pilot considerations.",
+  "additional_context": "The LLM would support healthcare professionals rather than independently diagnose patients or make final clinical decisions."
+}
