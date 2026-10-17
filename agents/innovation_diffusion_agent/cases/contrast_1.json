@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "LLM Coding Assistants",
+  "intended_application": "Code generation, unit testing, debugging, and related software-engineering assistance. Developers remain accountable for review, testing, and deployment.",
+  "organization": "Mature business-workflow SaaS company with approximately 1,000 employees",
+  "industry_sector": "Business-workflow software as a service",
+  "business_need": "Improve engineering throughput while preserving code quality, security, reliability, and controlled implementation.",
+  "users_stakeholders": "Software engineers, engineering managers, security, platform engineering, quality assurance, legal/procurement, and customers affected by service reliability.",
+  "adoption_posture": "Proactive; willing to conduct earlier bounded pilots while retaining controlled implementation requirements.",
+  "capabilities_constraints": "Mature engineering practices are assumed, but actual model/vendor selection, code-data policy, source-code access controls, evaluation baseline, and security-review capacity are not specified.",
+  "risk_consequence_context": "Generated code can introduce defects, insecure patterns, licensing or data-handling concerns, and reliability incidents in a customer-facing SaaS product.",
+  "management_question": "What does diffusion evidence imply about the timing and design of a controlled learning activity for LLM coding assistants, without making the final adoption decision?",
+  "time_horizon": "Near term: 6 to 12 months for evidence gathering and a possible bounded pilot.",
+  "additional_context": "This contrast changes only organizational adoption posture; retain the same technology, application, company size, industry, and evidence base."
+}

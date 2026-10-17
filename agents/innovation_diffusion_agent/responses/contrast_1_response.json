@@ -1,0 +1,55 @@
+{
+  "agent": {
+    "name": "Innovation Diffusion Agent",
+    "specialty": "Rogers diffusion analysis for emerging-technology adoption",
+    "version": "0.2-student"
+  },
+  "analytical_question": "What do diffusion evidence and the stated proactive posture imply about timing and the design of a controlled learning activity for LLM coding assistants in a 1,000-employee business-workflow SaaS company, without deciding whether it should adopt?",
+  "general_et_finding": "Evidence supports high awareness and substantial individual active use of AI development tools, but it does not establish a single global adopter category or sustained enterprise deployment rate for LLM coding assistants. Rogers categories are therefore a useful lens, not a measured label: innovators and early adopters are clearly present, while the available surveys cannot prove that a defined early-majority threshold has been reached across enterprises. The five characteristics are mixed. Relative advantage is plausible for bounded tasks, but is contingent on review and rework; compatibility is higher where IDE, CI, code review, and approved data controls are already mature; complexity includes prompt use, context limits, tool configuration, and verification; trialability is strong because use can be restricted to volunteers, repositories, tasks, and non-production branches; observability is strong only if predeclared quality, security, and delivery measures are collected. The strongest diffusion driver is high trialability combined with visible integration into developer workflows. The strongest barrier is uncertain task-level value and trust in generated output, especially on complex, mature codebases.",
+  "application_finding": "For code generation, unit-test drafting, debugging, and related assistance, survey evidence indicates that developers commonly use AI tools to write code and express interest in testing. That is active-use evidence, not evidence that all generated code is reliable or that organizations have deployed the tools sustainably. A randomized study of experienced contributors working in their own mature open-source repositories found slower completion when early-2025 AI tools were allowed, illustrating why simple coding tasks or self-reports cannot be generalized to maintenance work. For this application, relative advantage must include accepted-review time, defect escape, security findings, and test quality; the human review and existing CI/CD gates remain part of the system.",
+  "organization_specific_finding": "The general and application diffusion findings do not change. The proactive posture changes timing only: the company may choose to begin an earlier bounded, reversible pilot while it continues to collect evidence, rather than waiting for a longer internal observation period. It should still establish policy, baseline measures, approved repositories, and stop conditions before use, because willingness to pilot does not prove value or remove security, reliability, IP, and data-handling risks. A reasonable inference is that mature engineering practices improve compatibility and observability, but that inference cannot substitute for facts about vendor choice, code-data controls, or security-review capacity. This is not a final decision to adopt or reject the technology.",
+  "evidence": [
+    {
+      "claim": "In Stack Overflow's 2024 survey, 62% of respondents reported using AI tools in the development process and 76% reported using or planning to use them; respondents already using them most often reported writing code as a use case (82%).",
+      "source_or_reference": "Stack Overflow, 2024 Developer Survey, AI section, https://survey.stackoverflow.co/2024/ai",
+      "date_or_recency": "2024; survey responses and question wording are published on the source page",
+      "evidence_type": "Developer survey; active-use and stated-intent evidence",
+      "notes": "Supports diffusion among survey respondents and the named workflow uses. It is not a census, an enterprise-deployment measure, or proof of sustained organizational adoption."
+    },
+    {
+      "claim": "GitHub's 2023 survey of 500 U.S.-based developers at companies with 1,000+ employees reported 92% had used an AI coding tool at work or personally.",
+      "source_or_reference": "GitHub, Survey reveals AI's impact on the developer experience, June 13, 2023, https://github.blog/news-insights/research/survey-reveals-ais-impact-on-the-developer-experience/",
+      "date_or_recency": "Published June 13, 2023; updated February 7, 2024",
+      "evidence_type": "Vendor-sponsored developer survey",
+      "notes": "Population size is relevant to the case, but the work-or-personal-use wording, U.S. sample, sponsorship, and self-report limit any inference about approved enterprise deployment."
+    },
+    {
+      "claim": "A randomized controlled study of 16 experienced developers completing 246 tasks in mature open-source projects found that allowing early-2025 AI tools increased task completion time by 19% in that setting.",
+      "source_or_reference": "METR, Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity, July 10, 2025, https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
+      "date_or_recency": "Published July 10, 2025; tools studied were from February-June 2025",
+      "evidence_type": "Randomized controlled study",
+      "notes": "Strong contrary evidence for universal productivity claims. The authors state that it does not show AI fails to speed many or most developers, so its mature-repository setting should not be generalized without qualification."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "A weak claim is that high developer survey use proves the technology is already in the early majority for enterprise software organizations. The cited surveys do not measure a common enterprise denominator, deployment depth, or sustained use.",
+    "GitHub's 92% figure is often paraphrased as workplace adoption, but its stated measure includes use at work or in personal time and comes from a vendor-sponsored U.S. survey.",
+    "The METR result is limited to 16 experienced open-source developers and their familiar mature repositories, but it directly cautions against assuming productivity gains on complex maintenance tasks.",
+    "No organization-specific evidence was supplied about source-code classification, contractual terms, model retention, secure integration, developer baseline metrics, or incident tolerance."
+  ],
+  "confidence_and_uncertainty": "Moderate confidence that awareness and active individual use are widespread in the surveyed developer populations, and high confidence that this does not by itself prove sustained enterprise diffusion. Confidence is moderate that bounded trials are feasible in principle because trialability is inherent to the workflow; their value at this company is uncertain without local baselines and controls. Productivity and quality effects are task-, tool-, developer-, and codebase-dependent.",
+  "value_opportunity_implication": "The opportunity is to learn whether assistance improves selected engineering workflows after accounting for review, rework, and quality outcomes. Existing development instrumentation may make those outcomes observable, but no claimed benefit should be treated as realized before a local comparison is measured.",
+  "risk_governance_implication": "Maintain human code review, automated tests, security scanning, approved data handling, access controls, and change-management gates. Define prohibited inputs and repositories before any learning activity. The diffusion finding does not assess a provider's security, licensing, privacy, or contractual fitness.",
+  "recommendation_management_implication": "Do not treat this specialist analysis as a final adoption decision. For a proactive posture, management could authorize an earlier, bounded volunteer pilot after the same minimum controls, baseline, task boundaries, and stop conditions are set. A later decision should weigh measured results with legal, security, architecture, procurement, and operational stakeholders.",
+  "change_monitoring_triggers": [
+    "Compare pilot and baseline results for cycle time, accepted-review effort, defect escape, security findings, test effectiveness, reliability incidents, and developer experience by task type.",
+    "Reassess when the company selects a vendor/model, defines code-data handling and retention terms, and confirms security-review capacity.",
+    "Monitor independently reproducible evidence on mature-codebase productivity, code quality, security, and sustained enterprise use rather than relying solely on vendor or self-reported surveys.",
+    "Stop or narrow any pilot if generated-output review, security findings, data exposure, or reliability outcomes exceed the predeclared limits."
+  ],
+  "abstention_or_more_information_needed": [
+    "This agent does not decide whether the company should procure or deploy an LLM coding assistant.",
+    "Need the specific vendor/model, integration architecture, data classification and retention terms, repository boundaries, legal/IP review, baseline metrics, and security/quality review capacity before judging organizational readiness.",
+    "No reliable common measure was supplied for classifying the entire LLM coding-assistant market into a precise Rogers adopter category or proving sustained enterprise deployment."
+  ]
+}
