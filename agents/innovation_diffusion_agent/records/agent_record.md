@@ -2,7 +2,7 @@
 
 ## A. Agent and Version
 
-- Repository / branch / implementation commit: `kh4214/MASY1800-ET-Agent-Lab` / `lab5-innovation-diffusion` / `b57d736`
+- Repository / branch / record-completion commit: `kh4214/MASY1800-ET-Agent-Lab` / `lab5-innovation-diffusion` / `3c383582e590098bebce66e782dec4d0f4070732` (the follow-up commit records this SHA in the Word and Markdown records)
 - Assignment / agent: Lab 5 - Innovation Diffusion Agent
 - Version: 0.2-student
 - Frozen scaffold: MASY1800_ET_Agent_Scaffold_v1_0; frozen-core validation passed.
