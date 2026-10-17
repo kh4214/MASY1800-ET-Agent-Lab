@@ -2,7 +2,7 @@
 
 ## A. Agent and Version
 
-- Repository / branch / commit: `kh4214/MASY1800-ET-Agent-Lab` / `lab4-promethean-classification` / **REVIEW AFTER COMMIT**
+- Repository / branch / commit: `kh4214/MASY1800-ET-Agent-Lab` / `lab4-promethean-classification` / `b3df24d`
 - Agent / assignment: Promethean Technology Classification Agent / Lab 4
 - Version: 0.3-student
 - Purpose: Apply Chapter 11 categorical-barrier and cross-tier transformation logic without changing the frozen common contracts.
