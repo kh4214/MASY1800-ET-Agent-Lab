@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Implantable brain-computer interface (BCI) systems that decode attempted speech or movement-related neural signals to enable communication and digital-device control.",
+  "intended_application": "Help patients with severe paralysis communicate and operate digital devices, within clinical research.",
+  "organization": "A large US teaching hospital considering participation in clinical research.",
+  "industry_sector": "Academic health system and clinical research.",
+  "business_need": "Expand investigational communication and computer-access options for people whose paralysis prevents reliable use of conventional assistive interfaces.",
+  "users_stakeholders": "Patients and families; neurologists, neurosurgeons, rehabilitation and speech teams; research staff; IRB; device sponsor; privacy, cybersecurity, and hospital leadership.",
+  "adoption_posture": "Cautious early adopter through IRB-approved clinical research, not routine clinical deployment.",
+  "capabilities_constraints": "Neurosurgical and neurocritical-care capacity, established clinical-trial office, rehabilitation services, data governance, and ability to recruit and support a small study; investigational-device dependence and limited three-year evidence window remain constraints.",
+  "risk_consequence_context": "Invasive implantation and explant/revision risks; possible decoding error, privacy and cybersecurity concerns, expectation management, burdens of training/support, and uncertain durability or generalizability.",
+  "management_question": "Should the hospital pursue a limited, governed clinical-research partnership over the next three years, and how should broader technological significance affect that decision?",
+  "time_horizon": "Three years.",
+  "additional_context": "Assess the technology, not speculative enhancement. Treat investigational status and the distinction between demonstrated studies and plausible future effects as material."
+}

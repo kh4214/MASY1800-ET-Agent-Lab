@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Implantable brain-computer interface (BCI) systems that decode attempted speech or movement-related neural signals to enable communication and digital-device control.",
+  "intended_application": "Help patients with severe paralysis communicate and operate digital devices, within clinical research.",
+  "organization": "A smaller US hospital with a risk-averse governance culture.",
+  "industry_sector": "Community hospital.",
+  "business_need": "Improve access to communication support for patients with severe paralysis.",
+  "users_stakeholders": "Patients and families; rehabilitation and speech staff; community physicians; leadership; ethics and privacy staff.",
+  "adoption_posture": "Risk averse; evidence and budget constrained.",
+  "capabilities_constraints": "Limited neurosurgical research infrastructure, no established implanted-device trial program, limited protected research staffing and budget, and no demonstrated capacity for sustained device-data operations or urgent implant-related support.",
+  "risk_consequence_context": "The same invasive, privacy, cybersecurity, and expectation risks apply, but consequences are amplified by thin specialist coverage and limited research-governance capacity.",
+  "management_question": "Should the hospital initiate BCI clinical research within three years, or use a referral/monitoring strategy?",
+  "time_horizon": "Three years.",
+  "additional_context": "Keep technology-level classification evidence-consistent with the primary case. Do not change it because the hospital is smaller or more risk averse."
+}
