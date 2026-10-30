@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "LLM Coding Assistants",
+  "intended_application": "Developer assistance for code drafting, unit-test drafting, debugging, and documentation in non-production branches; all output remains subject to existing review and CI/CD checks.",
+  "organization": "Established SaaS company of approximately 1,000 employees with existing software products and established engineering processes.",
+  "industry_sector": "Business-workflow SaaS",
+  "business_need": "Determine whether selected engineering workflows can improve without reducing code quality, security, or delivery reliability.",
+  "users_stakeholders": "Engineering teams, engineering management, security, quality assurance, architecture, legal/procurement, product teams, and customers affected by product reliability.",
+  "adoption_posture": "Cautious but willing to learn through controlled, reversible work.",
+  "capabilities_constraints": "Assume mature code review, CI/CD, automated testing, and security scanning exist. Vendor/model, data-classification policy, retention terms, repository scope, baseline metrics, and security-review capacity are not yet supplied.",
+  "risk_consequence_context": "A code, data-handling, licensing, or reliability failure could affect established products and customers; uncontrolled production use is not acceptable.",
+  "management_question": "What action should management take now regarding LLM Coding Assistants for comparable software-development assistance?",
+  "time_horizon": "Decide whether to initiate a controlled learning activity within the next quarter.",
+  "additional_context": "All organizational characteristics are case assumptions, not claims about a real company."
+}

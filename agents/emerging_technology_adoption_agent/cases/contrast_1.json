@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "LLM Coding Assistants",
+  "intended_application": "Developer assistance for code drafting, unit-test drafting, debugging, and documentation in non-production branches; all output remains subject to review and available automated checks.",
+  "organization": "Small software startup of approximately four employees building and maintaining its own software product.",
+  "industry_sector": "Software startup",
+  "business_need": "Increase development capacity and learning speed while avoiding a failure that could consume scarce engineering time or harm the product.",
+  "users_stakeholders": "The four-person product and engineering team, founders, and customers affected by product reliability.",
+  "adoption_posture": "Experiment-oriented and under pressure to develop rapidly, but able to tolerate only limited rework and service disruption.",
+  "capabilities_constraints": "Limited financial and engineering resources; no established evidence is provided for formal security review, data-handling policy, metrics instrumentation, or spare capacity for a prolonged pilot.",
+  "risk_consequence_context": "A poor tool choice, rework, data exposure, or production defect could have an outsized effect because the team has little redundancy; it cannot absorb an uncontrolled rollout.",
+  "management_question": "What action should management take now regarding LLM Coding Assistants for comparable software-development assistance?",
+  "time_horizon": "Decide whether to begin a small learning activity in the next month.",
+  "additional_context": "All organizational characteristics are case assumptions, not claims about a real startup."
+}
