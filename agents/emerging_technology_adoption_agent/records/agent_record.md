@@ -81,3 +81,7 @@ Overall, I believe emerging technology adoption decisions should balance the pot
 ## H. Assignment-material gap
 
 No official Lab 6 assignment memo or student guide was found in this workspace. This package implements the requirements in the supplied Lab 6 prompt and the frozen scaffold conventions. Add any instructor-specific rubric or required document format if it becomes available.
+
+## I. Self Reflection
+
+The student's Lab 6 self-reflection is provided separately in `records/self_reflection.md`.
