@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Generative AI using a large language model",
+  "intended_application": "Automate first-line SaaS customer-support responses, with human support staff handling escalations and consequential inquiries.",
+  "organization": "Larger established SaaS organization (case scenario)",
+  "industry_sector": "Business-to-business SaaS",
+  "business_need": "Reduce repetitive ticket workload while improving support capacity without reducing quality or accountability.",
+  "users_stakeholders": "Customers, established support organization, engineering/data teams, governance and risk functions, training team, operational leaders, and executive sponsor.",
+  "adoption_posture": "Prepared to consider a staged implementation after controlled validation.",
+  "capabilities_constraints": "Stronger technical infrastructure, more financial capacity, formal governance, dedicated operational ownership, and established training and support processes. Details of the support-quality baseline, model/vendor controls, data classification, escalation design, employee sentiment, and approval criteria are not supplied.",
+  "risk_consequence_context": "Inaccurate responses may still mislead customers or mishandle account, security, billing, or contractual questions. Human escalation for consequential inquiries is intended, but effectiveness has not been demonstrated.",
+  "management_question": "Is the organization ready to implement and sustain generative-AI customer-support automation, and what must change before management proceeds?",
+  "time_horizon": "Decision about a controlled staged implementation in the next three to six months.",
+  "additional_context": "Case scenario only, not verified company information. The technology and application are intentionally the same as the primary case; differences should be attributable to organizational capabilities and constraints."
+}

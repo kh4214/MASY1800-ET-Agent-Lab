@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Generative AI using a large language model",
+  "intended_application": "Automate first-line SaaS customer-support responses, with human support staff handling escalations and consequential inquiries.",
+  "organization": "Early-stage SaaS startup (case scenario)",
+  "industry_sector": "Business-to-business SaaS",
+  "business_need": "Reduce repetitive ticket workload while preserving reliable customer support and protecting limited financial runway.",
+  "users_stakeholders": "Customers, four-person engineering team, existing human support staff, founders, and prospective vendor/support partners.",
+  "adoption_posture": "Interested in a limited pilot; no decision has been made to deploy organization-wide.",
+  "capabilities_constraints": "Small engineering team; limited financial runway; existing human support staff; employee readiness is uncertain. Formal AI governance, support-quality baseline, integration architecture, training capacity, named operational owner, vendor terms, data handling, and incident process are not supplied.",
+  "risk_consequence_context": "Inaccurate responses may mislead customers, damage trust, or mishandle consequential account, security, billing, or contractual questions. The case assumes those inquiries can be escalated to humans, but does not establish the control design.",
+  "management_question": "Is the startup ready to implement and sustain generative-AI customer-support automation, and what must change before management proceeds?",
+  "time_horizon": "Decision about a possible limited pilot in the next three months; no committed production scale-up date.",
+  "additional_context": "Case scenario only, not verified company information. Keep the recommendation distinct from a finding about general generative-AI maturity. Ask for missing evidence rather than assuming it."
+}
