@@ -31,7 +31,7 @@ The specialist was revised to require a stage-gate decision before a pilot: a ba
 
 **Required missing-information behavior:** the agent must request the current support-quality baseline and evidence/design of the human-escalation control before treating the cases as ready for a consequential deployment decision.
 
-**AI and verification note:** Codex generated the four saved structured responses from the prepared packet contexts, revised the specialist after inspecting the initial contrast weakness, and ran the local validator. The unavailable assigned textbook source was not substituted with model memory. The only factual inputs in the responses are explicitly labeled course-scenario assumptions; no external factual claim or citation is represented as verified.
+**AI and verification note:** Codex generated the four saved structured responses from the prepared packet contexts, revised the specialist after inspecting the initial contrast weakness, and ran the local validator. The supplied textbook Chapters 8-9 were reviewed after the initial implementation; Chapter 8 supports the contextual maturity/readiness distinction, while no ECTM formula or score was invented. The case facts remain explicitly labeled assumptions; no provider-specific or external factual claim is represented as verified without source evidence.
 
 ## E. Independent Judgment and Handoff
 
