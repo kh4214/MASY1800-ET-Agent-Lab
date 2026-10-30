@@ -17,19 +17,21 @@ The primary and contrast cases keep the technology and application constant: gen
 
 ## C. Three-Level Finding
 
-The agent is designed to separate: (1) general technology maturity and evidence, (2) maturity and fit of the intended application, and (3) organization-specific readiness. It explicitly avoids treating a low readiness finding as evidence that the technology is immature or unsuitable.
+The agent separates: (1) general technology maturity and evidence, (2) maturity and fit of the intended application, and (3) organization-specific readiness. It does not treat a low readiness finding as evidence that the technology is immature or unsuitable.
 
-Its expected decision principle is stage-dependent: readiness for an isolated, reversible pilot is not readiness for scale. For the proposed application, potentially consequential inquiries require appropriate human escalation or oversight, and performance should be compared with a relevant existing support baseline. The actual management recommendation must be generated from the completed case response, not assumed in advance.
+The final runs apply a stage-dependent rule: readiness for an isolated, reversible pilot is not readiness for scale. The startup receives readiness-building before a pilot because it lacks a demonstrated baseline, escalation design, accountable owner, governance process, and capacity to operate controls. The larger organization receives a conditional low-consequence pilot because its stated governance and ongoing ownership clear more stage gates, although it cannot scale without proven controls. Both runs require human escalation for consequential inquiries and comparison against a relevant existing support baseline.
 
 ## D. Evidence and Testing
 
 The agent requires independently verifiable evidence for consequential maturity, technical, security, regulatory, or adoption claims; it labels scenario facts as case assumptions. It does not invent scores, citations, ECTM methods, or performance thresholds. ECTM is used only if its authoritative course definition is provided and relevant.
 
-Prompt packets are prepared for primary and contrast cases. No structured ChatGPT responses or validator outputs were present at this record's preparation, so no test result, revision result, or validation pass is claimed. The remaining manual workflow is recorded in `testing_and_revision_plan.md`.
+The prepared primary and contrast prompt packets were executed through the available LLM capability. Initial responses (`primary_response_v0_1.json` and `contrast_1_response_v0_1.json`) both recommended a conditional pilot. This exposed a context-sensitivity weakness: the action category did not adequately reflect the startup's missing stage gates.
+
+The specialist was revised to require a stage-gate decision before a pilot: a baseline, named owner, low-consequence scope, escalation/control design, and observation capacity. Final responses (`primary_response.json` and `contrast_1_response.json`) were rerun and passed the frozen response validator, as did the preserved initial responses. The stable conclusion is that technology/application maturity remains unclassified without independent evidence and that escalation/baseline evidence is necessary. The changed conclusion is readiness-building for the startup versus a conditional pilot for the established organization.
 
 **Required missing-information behavior:** the agent must request the current support-quality baseline and evidence/design of the human-escalation control before treating the cases as ready for a consequential deployment decision.
 
-**AI and verification note:** Codex assisted in structuring the specialist instructions, cases, prompt packets, and record. The unavailable assigned textbook source was not substituted with model memory. No external factual claim, structured model response, or response validation is represented as having been completed unless saved in the repository.
+**AI and verification note:** Codex generated the four saved structured responses from the prepared packet contexts, revised the specialist after inspecting the initial contrast weakness, and ran the local validator. The unavailable assigned textbook source was not substituted with model memory. The only factual inputs in the responses are explicitly labeled course-scenario assumptions; no external factual claim or citation is represented as verified.
 
 ## E. Independent Judgment and Handoff
 

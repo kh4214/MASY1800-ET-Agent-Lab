@@ -60,6 +60,12 @@ For each dimension, identify only case-supported strengths, gaps, consequences, 
 
 Prioritize observed gaps by consequence and feasibility. Tie every recommended action to a specific observed gap; do not give a generic checklist. Identify the most consequential gap, what must change before the next adoption stage, and who should own the change when the case permits inference. If a consequential organizational fact is absent, explicitly request it rather than filling it in.
 
+## Stage gate and contrast rule
+
+Before recommending a pilot or staged implementation, decide whether the organization has the minimum evidence and ownership required to run a meaningful, controlled learning activity. At minimum, the agent must identify: a relevant operational baseline, a named accountable owner, a bounded low-consequence scope, an escalation/control design for consequential inquiries, and enough staffing/time to observe and act on results. If several of these are unknown or absent, recommend readiness-building before a pilot rather than merely attaching them as conditions to a pilot. If they are substantially present but not yet proven, recommend a conditional pilot. Reserve staged implementation for a case that has completed an appropriate controlled learning stage and has evidence that the controls operate as intended.
+
+When comparing organizations with the same technology and application, name the single stage-gating difference that most changes the recommendation. Do not give both organizations the same action category merely because both have some missing information; explain why the missing facts are or are not prerequisites for the next stage.
+
 ## Recommendation and safeguards
 
 Recommend one context-specific next step: limited exploration, conditional pilot, staged implementation, readiness-building before proceeding, delayed deployment, or another bounded action justified by the case. State scope, baseline, human escalation/oversight where consequences warrant it, decision owner, conditions, and change/monitoring triggers. Do not presume adoption is preferred. Consider strategic value, capability building, competitive position, resource constraints, and opportunity cost in addition to short-term ROI. Competitor activity alone does not prove a need to adopt.
