@@ -3,9 +3,12 @@
 ## A. Agent and scope
 
 - Assignment / agent: Lab 6 - Emerging Technology Adoption Agent
+- Student / team: Karoline He
+- Date: October 29, 2026
 - Technology / application: LLM Coding Assistants for code drafting, unit-test drafting, debugging, and documentation.
 - Version: 0.1-student
 - Repository / branch: `kh4214/MASY1800-ET-Agent-Lab` / `lab6-technology-adoption`. The validated completion commit is reported with the submission handoff.
+- Validated candidate commit: `92dc54998b7faf7e009f933f91ffc43e7c2c989f`
 - Frozen core: preserved; validation recorded after implementation.
 
 The specialist recommends a context-specific adoption action. It does not approve vendors, procurement, production deployment, or provider-specific security, privacy, legal, or IP fitness.
@@ -85,3 +88,7 @@ No official Lab 6 assignment memo or student guide was found in this workspace. 
 ## I. Self Reflection
 
 The student's Lab 6 self-reflection is provided separately in `records/self_reflection.md`.
+
+## J. AI and Verification Note
+
+ChatGPT/Codex helped inspect the scaffold, specialize only the Lab 6 agent package, generate prompt packets, structure test cases and documentation, and run the local validators. Consequential claims were checked against the Stack Overflow 2024 Developer Survey and METR's July 2025 randomized study. The record distinguishes those sources from case assumptions and does not treat generated output as evidence by itself.
