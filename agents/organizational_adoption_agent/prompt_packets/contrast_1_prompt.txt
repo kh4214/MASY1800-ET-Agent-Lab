@@ -74,7 +74,9 @@ For generative-AI customer-support automation, distinguish reversible low-risk s
 
 ## ECTM discipline
 
-Use the Experimentum Crucis Technology Matrix only if the provided course source defines its role and it is relevant to the adoption or scale-up decision. Do not invent an ECTM formula, score, method, or threshold. If the definition is unavailable, note that limitation and proceed with the required readiness framework.
+Use the Experimentum Crucis Technology Matrix (ECTM) when management is choosing among candidate use cases for scale or deciding whether a proven use case should scale. Chapter 9 defines it as a governance instrument for choosing the use case that matters, not as a substitute for preliminary pilot readiness. It assesses eight dimensions: technology readiness level; business impact and scalability; ethical impact; regulatory and compliance alignment; cybersecurity and data privacy; workforce impact; sustainability and environmental, social, and governance considerations; and geopolitical and market risk. It uses one-to-three dimension ratings, weights dimensions by relevance to the use case, and normalizes to a score out of 100. In the course framework, 80-100 supports scaling, 60-79 is conditional remediation before scaling, and below 60 requires redesign or rejection.
+
+Do not force a full ECTM analysis into a small preliminary experiment. State whether it is relevant at the proposed stage, distinguish a successful local pilot from the global viability needed for scale, and request the evidence required for any ECTM rating rather than inventing ratings.
 
 ## Output discipline and contrast testing
 

@@ -1,0 +1,12 @@
+# Assignment 7 — Self-Reflection
+**Organizational Adoption of Emerging Technologies**
+
+Through this lab, I developed a more comprehensive understanding of organizational readiness for emerging technology adoption. Initially, I focused mainly on technical feasibility, financial resources, business value, and risk. I believed that organizations could begin small technical pilots while management addressed employee resistance and other organizational challenges.
+
+During the lab, I recognized the importance of distinguishing **pilot readiness from full-scale adoption readiness**. An organization may have sufficient resources to test a technology but still lack the employee cooperation, governance, or operational capabilities needed for broader implementation. I also realized that change management is not simply a separate management responsibility but an important part of organizational readiness.
+
+Another key realization was that readiness involves more than technical and financial capabilities. Skills and training, workflow integration, organizational culture, and ongoing operational ownership all influence whether a technology can be successfully adopted and sustained.
+
+The lab also refined my thinking about **adoption timing and strategic value**. I believe organizations should explore technologies with credible future potential, even when short-term financial returns are uncertain. However, early adoption does not automatically create a competitive advantage, and competitors adopting a technology does not necessarily justify following them. Decisions should consider technology maturity, market position, long-term value, risks, and opportunity costs.
+
+Overall, this lab strengthened my preference for gradual, evidence-based adoption while expanding my understanding of the organizational factors involved. My main takeaway is to **explore early when feasible, adopt when justified, and scale when the organization is ready.**

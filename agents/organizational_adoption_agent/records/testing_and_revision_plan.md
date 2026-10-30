@@ -12,7 +12,7 @@ Primary context: a small startup with limited runway, a small engineering team, 
 
 Contrast context: a larger SaaS organization with stronger infrastructure and financial capacity, formal governance, established support/training processes, and dedicated operational ownership; material control details remain unknown.
 
-Observed stable conclusion: both responses keep general maturity separate from organizational readiness, decline to classify generative AI without independent maturity evidence, and require a human-escalation design and support baseline for consequence-sensitive inquiries.
+Observed stable conclusion: both responses keep Chapter 8's general Leading Edge maturity context separate from organizational readiness, and require a human-escalation design and support baseline for consequence-sensitive inquiries.
 
 Observed changed conclusion after revision: the startup receives readiness-building before a pilot because several stage gates are unknown or absent; the established organization receives a conditional low-consequence pilot because governance and ongoing ownership are stated. Neither receives a scale-up recommendation.
 

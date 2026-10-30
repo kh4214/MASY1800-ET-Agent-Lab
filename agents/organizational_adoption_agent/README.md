@@ -7,8 +7,8 @@ This Assignment 7 specialist evaluates readiness to absorb, govern, and sustain 
 - `specialist_instructions.md` defines the eight-dimension readiness framework.
 - `cases/` holds the primary startup and contrasting established-SaaS scenarios.
 - `prompt_packets/` contains packets built by the frozen local tool.
-- `responses/` is intentionally empty until structured ChatGPT responses are manually saved and validated.
-- `records/` contains the Agent Record and the evidence plan.
+- `responses/` preserves initial and revised primary/contrast structured responses; all four pass the frozen response validator.
+- `records/` contains the template-based Agent Record, testing/revision evidence, and the approved Self-Reflection.
 
 ## Run workflow
 
@@ -21,4 +21,4 @@ python tools/validate_response.py agents/organizational_adoption_agent/responses
 python tools/validate_response.py agents/organizational_adoption_agent/responses/contrast_1_response.json
 ```
 
-No response files are included because no separate structured ChatGPT run occurred in this environment. Do not represent the planned test observations as validated results.
+The saved response files document the initial contrast weakness and the revised rerun. They are local model-execution evidence for this course workflow; case facts remain labeled assumptions and provider-specific claims remain unverified.
