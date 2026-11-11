@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "LLM coding assistants",
+  "intended_application": "Software development",
+  "organization": "A 4-person software startup",
+  "industry_sector": "Software",
+  "business_need": "Assess the technology landscape and determine an appropriate management posture for using LLM coding assistants in software development.",
+  "users_stakeholders": "The four-person software team and management.",
+  "adoption_posture": "Not specified; determine whether available evidence supports Adopt, Trial, Assess, or Hold for this context.",
+  "capabilities_constraints": "Only organization size and software-startup context are provided. Existing tooling, supplier commitments, data classification, jurisdictions, funding, customers, and delivery baselines are unknown.",
+  "risk_consequence_context": "LLM-generated code may affect software products, but the specific customer, regulatory, security, and reliability consequences are not provided.",
+  "management_question": "Where do LLM coding assistants for software development sit in the current landscape for this 4-person software startup, and which signals should management monitor before changing its decision?",
+  "time_horizon": "Current landscape and the next 12 months.",
+  "additional_context": "Contrast case: keep the technology and application constant. Do not invent organizational facts."
+}
